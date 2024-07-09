@@ -11,4 +11,4 @@ http://localhost:8080/phpmyadmin/
 
 
 Demo Video and File SQL
-![Demo Video](https://drive.google.com/drive/folders/1PlECTcoPyuHIG-T3L4baKcj5Nh6YY075?usp=sharing)
+https://drive.google.com/drive/folders/1PlECTcoPyuHIG-T3L4baKcj5Nh6YY075?usp=sharing
